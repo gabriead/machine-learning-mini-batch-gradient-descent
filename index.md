@@ -3,6 +3,7 @@
 I am currently doing a Nano Degree in Machine Learning and here I will document
 my progress on this endeavour.
 
+### Mini-Batch-Gradient Descent
 
 
 ### Further Reading
